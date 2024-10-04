@@ -38,7 +38,7 @@ Disallow: /`);
                 }
                 h1 {
                     font-size: 1.4em;
-                    margin-bottom: 20px;
+                    margin-bottom: 30px;
                     text-align: center;
                 }
                 p {
@@ -51,6 +51,7 @@ Disallow: /`);
                     }
                 .small {
                     font-size: 0.9em;
+                    margin-top:20px;
                 }
             </style>
             </head>
