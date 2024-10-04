@@ -10,15 +10,14 @@ export default async (
     // HTMLとCSSを組み込んだレスポンス
     const htmlContent = `
         <!DOCTYPE html>
-        <html lang="en">
+        <html lang="ja">
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <title>410 Gone</title>
             <style>
                 body {
-                    font-family: Arial, sans-serif;
-                    background-color: #f8d7da;
+                    background-color: #efefef;
                     color: #721c24;
                     display: flex;
                     justify-content: center;
