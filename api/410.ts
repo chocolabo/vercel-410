@@ -22,7 +22,7 @@ export default async (
                     display: flex;
                     justify-content: center;
                     align-items: center;
-                    height: 100vh;
+                    height: 80vh;
                 }
                 .container {
                     padding-left: 30%;
