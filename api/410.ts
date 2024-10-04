@@ -48,7 +48,10 @@ Disallow: /`);
                     text-align: right;
                     font-size: 1em;
                     margin-top: 20px;
-                    }    
+                    }
+                .small {
+                    font-size: 0.9em;
+                }
             </style>
             </head>
             <body>
@@ -60,7 +63,7 @@ Disallow: /`);
                     その際はまたお付き合いいただけましたら幸いです。<br /><br />
                     長らくのお付き合い、誠にありがとうございました。</p>
                     <div class="author">たちばな</div>
-                    <p>追記：このページは、たちばながドメインを維持している限り残り続ける予定です。</p>
+                    <p class="small">追記：このページは、たちばながドメインを維持している限り残り続ける予定です。</p>
                 </div>
             </body>
             </html>
