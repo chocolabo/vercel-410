@@ -23,18 +23,17 @@ export default async (
                     justify-content: center;
                     align-items: center;
                     height: 100vh;
-                    margin: 0;
                 }
                 .container {
                     text-align: center;
                     padding: 20px;
                 }
                 h1 {
-                    font-size: 50px;
+                    font-size: 1.4em;
                     margin-bottom: 20px;
                 }
                 p {
-                    font-size: 20px;
+                    font-size: 1em;
                 }
             </style>
         </head>
