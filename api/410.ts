@@ -25,7 +25,9 @@ export default async (
                     height: 100vh;
                 }
                 .container {
-                    padding: 20px;
+
+                    padding-left: 20%;
+                    padding-right: 20%;                    
                 }
                 h1 {
                     font-size: 1.4em;
