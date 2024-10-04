@@ -28,8 +28,6 @@ export default async (
                 .container {
                     text-align: center;
                     padding: 20px;
-                    border: 1px solid #f5c6cb;
-                    border-radius: 10px;
                 }
                 h1 {
                     font-size: 50px;
