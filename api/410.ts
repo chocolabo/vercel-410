@@ -18,7 +18,7 @@ export default async (
             <style>
                 body {
                     background-color: #efefef;
-                    color: #721c24;
+                    color: #161209;
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -29,7 +29,6 @@ export default async (
                     text-align: center;
                     padding: 20px;
                     border: 1px solid #f5c6cb;
-                    background-color: #f8d7da;
                     border-radius: 10px;
                 }
                 h1 {
