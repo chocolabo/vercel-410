@@ -25,7 +25,6 @@ export default async (
                     height: 100vh;
                 }
                 .container {
-                    text-align: center;
                     padding: 20px;
                 }
                 h1 {
