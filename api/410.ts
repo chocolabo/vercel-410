@@ -43,6 +43,9 @@ Disallow: /`);
                 p {
                     font-size: 1em;
                 }
+                .p-right {
+                    text-align: right;
+                }                
             </style>
             </head>
             <body>
@@ -53,6 +56,7 @@ Disallow: /`);
                     調子が戻りましたら、いつかどこかで復活するかもしれません。<br />
                     その際はよろしくお願いいたします。<br /><br />
                     長らくのお付き合い、誠にありがとうございました。</p>
+                    <p cleass="p-right">たちばな</p>
                 </div>
             </body>
             </html>
