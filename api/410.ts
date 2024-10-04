@@ -43,9 +43,11 @@ Disallow: /`);
                 p {
                     font-size: 1em;
                 }
-                p .p-right {
+                .author {
                     text-align: right;
-                }                
+                    font-size: 1em;
+                    margin-top: 20px;
+                    }    
             </style>
             </head>
             <body>
@@ -56,7 +58,7 @@ Disallow: /`);
                     調子が戻りましたら、いつかどこかで復活するかもしれません。<br />
                     その際はよろしくお願いいたします。<br /><br />
                     長らくのお付き合い、誠にありがとうございました。</p>
-                    <p cleass="p-right">たちばな</p>
+                    <div class="author">たちばな</div>
                 </div>
             </body>
             </html>
