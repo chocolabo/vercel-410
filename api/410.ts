@@ -43,7 +43,7 @@ Disallow: /`);
                 p {
                     font-size: 1em;
                 }
-                .p-right {
+                p .p-right {
                     text-align: right;
                 }                
             </style>
