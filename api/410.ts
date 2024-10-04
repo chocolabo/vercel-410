@@ -51,7 +51,7 @@ Disallow: /`);
                     }
                 .small {
                     font-size: 0.9em;
-                    margin-top:20px;
+                    margin-top:50px;
                 }
             </style>
             </head>
