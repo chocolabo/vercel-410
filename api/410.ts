@@ -22,7 +22,7 @@ Disallow: /`);
             <head>
                 <meta charset="UTF-8">
                 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                <title>410 Gone</title>
+                <title>みるくちょこ.ink 跡地（410 Gone）</title>
            <style>
                 body {
                     background-color: #efefef;
