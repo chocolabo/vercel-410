@@ -33,8 +33,8 @@ Disallow: /`);
                     height: 80vh;
                 }
                 .container {
-                    padding-left: 25%;
-                    padding-right: 25%;                    
+                    padding-left: 20%;
+                    padding-right: 20%;                    
                 }
                 h1 {
                     font-size: 1.4em;
