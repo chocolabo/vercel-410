@@ -40,8 +40,14 @@ export default async (
         </head>
         <body>
             <div class="container">
-                <h1>410 Gone</h1>
-                <p>The resource you are looking for has been permanently removed.</p>
+                <h1>みるくちょこ.ink 跡地（410 Gone）</h1>
+                <p>誠に勝手ながら『みるくちょこ.ink』は閉鎖いたしました。
+身体的およびメンタルの不調により、今後サーバーの維持が困難になる可能性が高く、予期せぬトラブルを避けるため、このような決断をいたしました。
+
+調子が戻りましたら、いつかどこかで復活するかもしれません。
+その際はよろしくお願いいたします。
+
+長らくのお付き合い、誠にありがとうございました。</p>
             </div>
         </body>
         </html>
